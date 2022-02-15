@@ -2,8 +2,11 @@
 Transparent Covid Vaccination Data Exploration based on Our World In Data (OWID) Dataset.
 
 ## Correlation between Coronavirus (COVID-19) Vaccinations and Excess Mortality over Time
+per Country and Vaccine
+https://github.com/Dabbrivia/owid-covid/blob/main/owid-covid-vax-corr-interpolated.html
+
 https://nbviewer.org/github/Dabbrivia/owid-covid/blob/main/owid-covid-vax-corr-interpolated.ipynb
-Broken down per Country and Vaccine
+
 
 ## Exploration of Various Approaches to the Visualisation and Modeling
 See it rendered on https://nbviewer.org/github/Dabbrivia/owid-covid/blob/main/owid-covid-vax-corr.ipynb
